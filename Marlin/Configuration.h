@@ -4029,5 +4029,5 @@
 //#define SERVO_DETACH_GCODE
 
 
-// i installed a different extruder
+// i installed a different extruder.
 #define INVERT_E0_DIR
